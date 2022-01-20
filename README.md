@@ -1,2 +1,2 @@
 # openshift-kickstart
-OpenShift kickstart script (using latest puddle)
+OpenShift kickstart script (using latest puddle).
